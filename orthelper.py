@@ -611,4 +611,4 @@ async def set_business(ctx, member: discord.Member, *, money):
             json.dump(dataa, f)
 @bot.command()
 async def set_news(ctx):
-bot.run('Njc3MTYzMjg0MjY0MjU1NDg4.XkWuPw.fJtapSDa_LZysRwcdWbxUFRrzG8')
+bot.run('хуй вам а не его токен))))))))))))))))')
